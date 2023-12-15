@@ -7,7 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="bank-account-app" />
+        <module name="bank-account-devops" />
         <module name="config-service" />
         <module name="account-service" />
         <module name="customer-service" />
